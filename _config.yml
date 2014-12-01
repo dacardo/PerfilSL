@@ -1,0 +1,51 @@
+# Site wide configuration
+
+title: Perfil De Hacker
+locale: en_US
+description: Este blog fue elaborado para la materia de Software Libre en la Universidad Nacional De Colombia.
+logo: logo-blog.png
+search: true
+url: 
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: David Ricardo Trompa Muñoz
+  avatar: mi-foto-de-perfil.jpg
+  email: drtrompam@unal.edu.co
+  disqus-shortname:
+  twitter: @Dacardo4
+  facebook: https://www.facebook.com/Dacardo
+  github: #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:
