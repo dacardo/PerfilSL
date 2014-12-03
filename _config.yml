@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Perfil De Hacker
+title: DavidTrompa
 locale: en_US
 description: Este blog fue elaborado para la materia de Software Libre en la Universidad Nacional De Colombia.
 logo: logo-blog.png
 search: true
-baseurl: "/PerfilSL/"
-url: "https://github.com/dacardo/PerfilSL"
+baseurl: "/DavidTrompa/"
+url: "https://github.com/dacardo/DavidTrompa"
 
 
 # Jekyll configuration
