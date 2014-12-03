@@ -5,7 +5,8 @@ locale: en_US
 description: Este blog fue elaborado para la materia de Software Libre en la Universidad Nacional De Colombia.
 logo: logo-blog.png
 search: true
-url: 
+baseurl: "/PerfilSL/"
+url: "https://github.com/dacardo/PerfilSL"
 
 
 # Jekyll configuration
