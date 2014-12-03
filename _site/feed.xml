@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Perfil De Hacker</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2014-12-01T00:27:55-05:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="https://github.com/dacardo/PerfilSL/feed.xml" />
+<link rel="alternate" type="text/html" href="https://github.com/dacardo/PerfilSL" />
+<updated>2014-12-02T20:01:48-05:00</updated>
+<id>https://github.com/dacardo/PerfilSL/</id>
 <author>
   <name>David Ricardo Trompa Muñoz</name>
-  <uri>/</uri>
+  <uri>https://github.com/dacardo/PerfilSL/</uri>
   <email>drtrompam@unal.edu.co</email>
 </author>
 
@@ -17,13 +17,13 @@
 
 <entry>
   <title type="html"><![CDATA[Pasatiempos]]></title>
-  <link rel="alternate" type="text/html" href="/articles/mis-pasatiempos/" />
-  <id>/articles/mis-pasatiempos</id>
+  <link rel="alternate" type="text/html" href="https://github.com/dacardo/PerfilSL/articles/mis-pasatiempos/" />
+  <id>https://github.com/dacardo/PerfilSL/articles/mis-pasatiempos</id>
   <published>2014-06-22T00:00:00-05:00</published>
   <updated>2014-06-22T00:00:00-05:00</updated>
   <author>
     <name>David Ricardo Trompa Muñoz</name>
-    <uri></uri>
+    <uri>https://github.com/dacardo/PerfilSL</uri>
     <email>drtrompam@unal.edu.co</email>
   </author>
   <content type="html">&lt;p&gt;Tengo una pequeña coleccion de cubos rubik y en mis tiempo libres me gusta armarlos para mejorar mi velocidad al momento de resolverlo.&lt;/p&gt;
@@ -47,7 +47,7 @@
 &lt;/center&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/mis-pasatiempos/&quot;&gt;Pasatiempos&lt;/a&gt; was originally published by David Ricardo Trompa Muñoz at &lt;a href=&quot;&quot;&gt;Perfil De Hacker&lt;/a&gt; on June 22, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://github.com/dacardo/PerfilSL/articles/mis-pasatiempos/&quot;&gt;Pasatiempos&lt;/a&gt; was originally published by David Ricardo Trompa Muñoz at &lt;a href=&quot;https://github.com/dacardo/PerfilSL&quot;&gt;Perfil De Hacker&lt;/a&gt; on June 22, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -55,13 +55,13 @@
 
 <entry>
   <title type="html"><![CDATA[Conocimientos en Programacion]]></title>
-  <link rel="alternate" type="text/html" href="/articles/lenguajes-de-programacion/" />
-  <id>/articles/lenguajes-de-programacion</id>
+  <link rel="alternate" type="text/html" href="https://github.com/dacardo/PerfilSL/articles/lenguajes-de-programacion/" />
+  <id>https://github.com/dacardo/PerfilSL/articles/lenguajes-de-programacion</id>
   <published>2014-06-21T00:00:00-05:00</published>
   <updated>2014-06-21T00:00:00-05:00</updated>
   <author>
     <name>David Ricardo Trompa Muñoz</name>
-    <uri></uri>
+    <uri>https://github.com/dacardo/PerfilSL</uri>
     <email>drtrompam@unal.edu.co</email>
   </author>
   <content type="html">&lt;p&gt;Actualmente manejo los siguientes lenguajes de programacion:&lt;/p&gt;
@@ -85,7 +85,7 @@ Y me gustaria actualemnte aprender:&lt;/p&gt;
 &lt;/ul&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;/articles/lenguajes-de-programacion/&quot;&gt;Conocimientos en Programacion&lt;/a&gt; was originally published by David Ricardo Trompa Muñoz at &lt;a href=&quot;&quot;&gt;Perfil De Hacker&lt;/a&gt; on June 21, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://github.com/dacardo/PerfilSL/articles/lenguajes-de-programacion/&quot;&gt;Conocimientos en Programacion&lt;/a&gt; was originally published by David Ricardo Trompa Muñoz at &lt;a href=&quot;https://github.com/dacardo/PerfilSL&quot;&gt;Perfil De Hacker&lt;/a&gt; on June 21, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -93,20 +93,19 @@ Y me gustaria actualemnte aprender:&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Mis Participaciones]]></title>
-  <link rel="alternate" type="text/html" href="/articles/participaciones-en-eventos/" />
-  <id>/articles/participaciones-en-eventos</id>
+  <link rel="alternate" type="text/html" href="https://github.com/dacardo/PerfilSL/articles/participaciones-en-eventos/" />
+  <id>https://github.com/dacardo/PerfilSL/articles/participaciones-en-eventos</id>
   <published>2014-06-20T00:00:00-05:00</published>
   <updated>2014-06-20T00:00:00-05:00</updated>
   <author>
     <name>David Ricardo Trompa Muñoz</name>
-    <uri></uri>
+    <uri>https://github.com/dacardo/PerfilSL</uri>
     <email>drtrompam@unal.edu.co</email>
   </author>
   <content type="html">&lt;p&gt;Hasta el momento solo he participado en eventos academicos en la &lt;a href=&quot;http://www.unal.edu.co&quot;&gt;Universidad Nacional De Colombia&lt;/a&gt; donde he sustentado varios proyectos para materias como Ingenieria De Software I, Ingenieria De Software II y Taller de Proyectos Interdisciplinarios.&lt;/p&gt;
 
-&lt;p&gt;Actualmente estoy trabajndo en un proyecto para la materia computacion visual el cual esta siendo desarrollado en processing.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/articles/participaciones-en-eventos/&quot;&gt;Mis Participaciones&lt;/a&gt; was originally published by David Ricardo Trompa Muñoz at &lt;a href=&quot;&quot;&gt;Perfil De Hacker&lt;/a&gt; on June 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;https://github.com/dacardo/PerfilSL/articles/participaciones-en-eventos/&quot;&gt;Mis Participaciones&lt;/a&gt; was originally published by David Ricardo Trompa Muñoz at &lt;a href=&quot;https://github.com/dacardo/PerfilSL&quot;&gt;Perfil De Hacker&lt;/a&gt; on June 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
